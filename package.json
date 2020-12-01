@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer-brazilian-holidays",
+  "version": "1.0.0",
+  "description": "Web crawler in puppeteer",
+  "main": "index.js",
+  "repository": "https://github.com/jsi1v4/puppeteer-brazilian-holidays.git",
+  "author": "Jose Silva <me@jsi1v4.dev>",
+  "license": "GPL-3.0",
+  "private": false
+}
