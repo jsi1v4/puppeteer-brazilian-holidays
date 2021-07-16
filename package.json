@@ -4,7 +4,7 @@
   "description": "Web crawler in puppeteer",
   "main": "src/index.js",
   "repository": "https://github.com/jsi1v4/puppeteer-brazilian-holidays.git",
-  "author": "Jose Silva <me@jsi1v4.dev>",
+  "author": "Jsi1v4 <git@jsi1v4.com>",
   "license": "MIT",
   "private": false,
   "dependencies": {
